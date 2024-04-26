@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1,Channel Name 1
+#EXTIMG: https://channel1.example.com/logo.png
+https://channel1.example.com/master.m3u8
+#EXTINF:-1,Channel Name 2
+#EXTIMG: https://channel2.example.com/favicon.ico
+https://channel2.example.com/master.m3u8
+#EXTINF:-1,Channel Name 3
+#EXTIMG: https://channel3.example.com/logo.png
+https://channel3.example.com/index.m3u8
